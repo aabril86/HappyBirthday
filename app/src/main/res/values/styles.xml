@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textCustom">
+        <item name="fontFamily">@font/rosario</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="fontStyle">normal</item>
+    </style>
+
+</resources>
